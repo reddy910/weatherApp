@@ -1,0 +1,5 @@
+bbf060f1ff149e71
+
+http://api.wunderground.com/api/bbf060f1ff149e71/conditions/q/33637.json
+
+http://api.wunderground.com/api/bbf060f1ff149e71/forecast/q/33637.json
